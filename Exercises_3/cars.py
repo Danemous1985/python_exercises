@@ -1,4 +1,4 @@
-cars = ['bmw','audi','toyota','subaru']
+cars = ['bmw', 'audi', 'toyota', 'subaru']
 # Sort cars by alphabetical order
 cars.sort()
 print(cars)
@@ -18,4 +18,3 @@ print(cars)
 # Find the length of a list
 len(cars)
 print(len(cars))
-

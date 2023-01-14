@@ -1,4 +1,4 @@
-languages = ['english','japanese','german','chinese','french','arabic']
+languages = ['english', 'japanese', 'german', 'chinese', 'french', 'arabic']
 
 # Print language list
 print(languages)
@@ -25,7 +25,7 @@ languages.sort(reverse=True)
 print(languages)
 
 # insert a new language at index 3
-languages.insert(3,'spanish')
+languages.insert(3, 'spanish')
 print(languages)
 
 # Pop to remove last index value
